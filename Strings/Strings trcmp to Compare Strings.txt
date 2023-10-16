@@ -1,0 +1,1 @@
+trcmp() :Compare Strings

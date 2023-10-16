@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+int main()
+{
+    int L, area;
+    
+    printf("Enter length of square L ");
+    Scanf("%d", &L);
+
+    Area = L*L;
+
+    printf("area of square is %d", area);
+    
+    return 0;
+
+}

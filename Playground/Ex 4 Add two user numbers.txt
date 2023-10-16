@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main()
+{
+   //Declare variables
+    
+    INTEGER num1
+    INTEGER num2
+    INTEGER SUM
+
+    //Input
+OUTPUT "Please enter the first number: "
+INPUT num1
+
+OUTPUT "Please enter the second number: "
+INPUT num2
+
+// Calculate the sum
+sum = num1 + num2
+
+//Output the result
+"The sum of " +num1 + "and" + num2 + " is " +sum 
+
+}
